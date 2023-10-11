@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - 0
+  - Tower
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Tower
+  - DummyPlacement
+  - Buttons
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 3972616439
+    locked: 0
+  - name: Tower
+    uniqueID: 1874453987
+    locked: 0
+  - name: Bullet
+    uniqueID: 6872161
+    locked: 0
+  - name: TowerBarrels
+    uniqueID: 482869403
+    locked: 0
+  - name: Enemy
+    uniqueID: 745355409
+    locked: 0
+  - name: Button
+    uniqueID: 3166840627
+    locked: 0
